@@ -1,4 +1,5 @@
 🔥 ESP32 + Arduino Smoke Detector System
+<img width="1793" height="711" alt="diagram" src="https://github.com/user-attachments/assets/fc7e7ac8-bdde-40be-9337-a1ae0a406ea4" />
 
 A dual-microcontroller based smoke detection system built using ESP32 and Arduino Uno.
 The system detects smoke using an MQ-2 sensor and sends an SMS alert via Twilio API over WiFi.
